@@ -6,7 +6,7 @@
     "AssemblyVersion": "5.0.0.1",
     "Description": "Names are dumb, use icons instead. (Temp fix until the release from Haplo064)",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Haplo064/JobIcons",
+    "RepoUrl": "https://github.com/xPumaa/JobIcons",
     "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "IsHide": "False",
