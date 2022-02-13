@@ -4,7 +4,7 @@
     "Name": "JobIcons",
     "InternalName": "JobIcons",
     "AssemblyVersion": "5.0.0.1",
-    "Description": "Names are dumb, use icons instead. (Temp fix until the release of Haplo064)",
+    "Description": "Names are dumb, use icons instead. (Temp fix until the release from Haplo064)",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Haplo064/JobIcons",
     "DalamudApiLevel": 5,
