@@ -16,5 +16,21 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/JobIcons/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/JobIcons/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/JobIcons/latest.zip"
+  },
+  {
+    "Author": "xPumaa",
+    "Name": "Name the Content",
+    "InternalName": "ContentDiscovery",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "Print the entering content name to chat",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/xPumaa/ContentDiscovery",
+    "DalamudApiLevel": 5,
+    "LoadPriority": 0,
+    "DownloadCount": 0,
+    "LastUpdate": "1649425535",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/ContentDiscovery/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/ContentDiscovery/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/ContentDiscovery/latest.zip"
   }
 ]
