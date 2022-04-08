@@ -27,6 +27,8 @@
     "RepoUrl": "https://github.com/xPumaa/ContentDiscovery",
     "DalamudApiLevel": 5,
     "LoadPriority": 0,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "LastUpdate": "1649425535",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/ContentDiscovery/latest.zip",
