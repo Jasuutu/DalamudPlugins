@@ -2,7 +2,7 @@
   "Author": "xPumaa",
   "Name": "Name the Content",
   "InternalName": "ContentDiscovery",
-  "AssemblyVersion": "1.0.0.0",
+  "AssemblyVersion": "1.0.1.0",
   "Description": "Print the entering content name to chat",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/xPumaa/ContentDiscovery",
