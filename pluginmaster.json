@@ -19,20 +19,20 @@
   },
   {
     "Author": "xPumaa",
-    "Name": "Name the Content",
-    "InternalName": "ContentDiscovery",
+    "Name": "Duty Announcer",
+    "InternalName": "DutyAnnouncer",
     "AssemblyVersion": "1.0.1.0",
-    "Description": "Print the entering content name to chat",
+    "Description": "Announces the name of the loading duty roulette",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/xPumaa/ContentDiscovery",
+    "RepoUrl": "https://github.com/xPumaa/DutyAnnouncer",
     "DalamudApiLevel": 5,
     "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1649425535",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/ContentDiscovery/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/ContentDiscovery/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/ContentDiscovery/latest.zip"
+    "LastUpdate": "1649456983",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/DutyAnnouncer/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/DutyAnnouncer/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/xPumaa/DalamudPlugins/master/plugins/DutyAnnouncer/latest.zip"
   }
 ]
