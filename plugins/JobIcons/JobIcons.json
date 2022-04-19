@@ -1,11 +1,11 @@
 {
-  "Author": "xPumaa",
+  "Author": "Jasuutu",
   "Name": "JobIcons",
   "InternalName": "JobIcons",
-  "AssemblyVersion": "5.0.0.1",
-  "Description": "Names are dumb, use icons instead. (Temp fix until the release from Haplo064)",
+  "AssemblyVersion": "6.0.0.0",
+  "Description": "Names are dumb, use icons instead. (Temp fix until the release from xPumaa)",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/xPumaa/JobIcons",
-  "DalamudApiLevel": 5,
+  "RepoUrl": "https://github.com/jasuutu/JobIcons",
+  "DalamudApiLevel": 6,
   "LoadPriority": 0
 }
