@@ -15,6 +15,7 @@
     "LastUpdate": "1637144837",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Jasuutu/DalamudPlugins/master/plugins/JobIcons/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Jasuutu/DalamudPlugins/master/plugins/JobIcons/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Jasuutu/DalamudPlugins/master/plugins/JobIcons/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Jasuutu/DalamudPlugins/master/plugins/JobIcons/latest.zip",
+    "ChangeLog": "Updated assembly version and api level to 6"
   }
 ]
